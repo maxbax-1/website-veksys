@@ -51,8 +51,7 @@
     }
     .img_left{
       width: 40%;
-      height: 15%;
-      margin-right: 30%;
+      height: auto;
       float: right;
       margin: 0 0 15px 15px;
     }
